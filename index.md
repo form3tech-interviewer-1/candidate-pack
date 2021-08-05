@@ -5,19 +5,12 @@
 
 **Table of Contents**
 
-  * [Our Story](#our-story)
-  * [Why Work at Form3](#why-work-at-form3)
-  * [A remote-first culture](#a-remote-first-culture)
-  * [The Team](#the-team)
-  * [The Opportunity](#the-opportunity)
-  * [What we look for](#what-we-look-for)
-  * [Our Benefits](#our-benefits)
-  * [How we interview](#how-we-interview)
-  * [Q&A](#q-&-a)
-  * [Our Engineering Team](#our-engineering-team)
-  * [How we work](#how-we-work)
-  * [Interview Process](#interview-process)
-  * [Helpful Links](#helpful-links)
+  * [Our Story](#our-story)                                * [Our Benefits](#our-benefits)
+  * [Why Work at Form3](#why-work-at-form3)                * [How we interview](#how-we-interview)
+  * [A remote-first culture](#a-remote-first-culture)      * [Our Engineering Team](#our-engineering-team)
+  * [The Team](#the-team)                                  * [How we work](#how-we-work)
+  * [The Opportunity](#the-opportunity)                    * [Interview Process](#interview-process)
+  * [What we look for](#what-we-look-for)                  * [Helpful Links](#helpful-links)
 
 
 
