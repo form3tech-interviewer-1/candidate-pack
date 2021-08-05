@@ -105,6 +105,7 @@ Andy Kuszyk - Senior Software Engineer
 
 ![export5](https://user-images.githubusercontent.com/54978377/128343069-03cbcd7c-a71c-465e-9465-9aba99ee8324.png)
 
+<br/>
 
 ### How we interview
 
