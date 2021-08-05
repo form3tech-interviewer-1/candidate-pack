@@ -1,5 +1,11 @@
+## Welcome to Form3
 
-[# Our Story](#our-story)
+[Form3](https://www.form3.tech/)
+
+
+**Table of Contents**
+
+  * [Our Story](#our-story)
   * [Why Work at Form3](#why-work-at-form3)
   * [A remote-first culture](#a-remote-first-culture)
   * [The Team](#the-team)
@@ -7,22 +13,12 @@
   * [What we look for](#what-we-look-for)
   * [Our Benefits](#our-benefits)
   * [How we interview](#how-we-interview)
-- [Q&A](#q-a)
+  * [Q&A](#q-&-a)
   * [Our Engineering Team](#our-engineering-team)
   * [How we work](#how-we-work)
   * [Interview Process](#interview-process)
   * [Helpful Links](#helpful-links)
-  * [And a table of contents](#and-a-table-of-contents)
-  * [On the right](#on-the-right)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
-
-
-## Welcome to Form3
-
-[Form3](https://www.form3.tech/)
 
 
 # Hi. We're Form3
