@@ -22,30 +22,83 @@ These are the things we believe in; they guide our decisions and our actions
 
 ![export2](https://user-images.githubusercontent.com/54978377/128330529-11844000-1123-4ae1-985a-b489a5939826.png)
 
-```markdown
-Syntax highlighted code block
+### Inclusivity
 
-# Header 1
-## Header 2
-### Header 3
+We want everyone at Form3 to feel involved and like they have a say in shaping our business. We provide a safe space to be inquisitive, voice opinions, make mistakes and push boundaries with zero judgement.
 
-- Bulleted
-- List
+### Be who you are
 
-1. Numbered
-2. List
+We’ve a wide range of personalities here at Form3; from adrenaline junkies to book worms. Everyone is respected for who they are. We hire talented people from a variety of backgrounds and experiences and are committed to a work environment based on diversity, open-mindedness and curiosity. You will find plenty of people here that are on your wavelength!
 
-**Bold** and _Italic_ and `Code` text
+### Why Work at Form3
 
-[Link](url) and ![Image](src)
-```
+Simple, we love what we do. Our work is our craft. Have fun, experiment, build the best cloud payment technology in the world, treat people right, tell the truth, find work-life harmony, build comradery. At Form3, you will find an environment where you can grow as a person and work on projects that you can be proud of.\
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### A remote-first culture
 
-### Jekyll Themes
+We are a remote-first team collaborating across 21 countries, representing over 50 nationalities. We let people work from wherever they are happiest and most productive (whether that is in an office or from a hammock in their garden). It’s also great for diversity. Attracting the best people for our team means looking for talent in different places. We work hard to make sure we don’t lose the human connection and that our people are given the trust, freedom and tools to work to the best of their ability. Our engineering team is 100% remote and our other teams have significant remote working opportunities as well. Working remotely may not be your cup of tea and there is still value in face-to-face interaction so if you prefer working in the office or want to see your colleagues in person, we’ve got you covered. You can drop into our London and Amsterdam offices as much as you want. You’re always more than welcome.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/form3tech-interviewer-1/candidate-pack/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Our remote workers
 
-### Support or Contact
+![export1](https://user-images.githubusercontent.com/54978377/128338043-40fbb77c-35bd-4747-b393-6beb376d518f.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### The Team
+
+Our software engineers work in small, highly agile, self-managed teams. Individually, they are all exceptional at what they do – together, they build world-class software for our customers. We share a common interest in engineering best practices and understand that quality is everyone's responsibility. Our philosophy is to favour collaborative development practices where we leverage open source tools and communities, always making sure to share our know-how back up stream. Put simply, we are cloud-native enthusiasts and DevOps advocates.
+
+### The Opportunity 
+
+At Form3 you will have the opportunity to design, develop and deploy backend cloud-native services within a powerful state-of-the-art microservices architecture. The work is cutting edge, constantly changing and focused on building highly available, low latency, scalable solutions. Play an active role in introducing new technologies and ways of working to stay ahead of the competition, without ever compromising on quality. Contribute and collaborate with other engineers on technical and architectural decisions. Enjoy end-to-end ownership from concept to deployment, including building and operating infrastructure, toolset and deployment pipelines. Develop your skills, work on cool projects and the latest tech, all whilst working with a talented, diverse and friendly group of people.
+
+
+
+
+
+
+
+**Our Stack** - Here are a few of the tools and methodologies we utilise:
+
+**Infrastructure** : AWS, GCP, Kubernetes
+
+**Platform** : CockroachDB, Elasticsearch, PostgresDB, Vault, Consul, Linkerd, NATS
+
+**Tools** : Terraform, GitHub, Prometheus, Pact.io
+
+**Code** : Go, containerised microservices, CQRS, open-source
+
+**Ways of working** : TDD/BDD, Pair Programming, 100% remote, DevSecOps
+
+![export6](https://user-images.githubusercontent.com/54978377/128342106-5b9a88fc-c4da-477c-b432-0424136bf53a.png)
+
+[Link to StackOverflow](https://stackoverflow.com/jobs/companies/form3-financial-cloud)
+
+
+
+### What we look for
+
+Passion for cloud-native technologies, modern infrastructures and tools, and keeping up with the latest in engineering best practices. Skilled in designing and building distributed, scalable systems and know-how to apply data structure and algorithms to create amazing solutions. Polyglots who are comfortable picking up new technologies, choosing the best tool for the job and writing the right kind of tests. Above all, we’re looking for enthusiastic engineers who love working in a DevOps culture and value teamwork, different perspectives and blending disciplines.
+
+### We love to pair!
+
+For us pair programming is a way of life and it goes hand-in-hand with a remote-first culture. It allows us to onboard new colleagues, knowledge share, work through complex projects, commit to frequent releases and maintain high code quality.
+
+There are no ‘strict’ rules for pair programming, and we empower our engineers to decide if they feel it’ll be beneficial on a particular problem. Depending on the project, our engineers spend between 50%-70% of their time pair programming.
+
+
+![export3](https://user-images.githubusercontent.com/54978377/128342832-0b21edf2-18bf-448e-a69b-1393360dc1de.png)
+
+Our engineers thrive in solving complex payment problems, pairing up the brightest minds to deliver technical excellence to our customers.
+
+Andy Kuszyk - Senior Software Engineer
+
+
+## Our Benefits
+
+![export5](https://user-images.githubusercontent.com/54978377/128343069-03cbcd7c-a71c-465e-9465-9aba99ee8324.png)
+
+
+
+
+
+
+
