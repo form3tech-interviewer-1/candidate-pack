@@ -3,16 +3,6 @@
 [Form3](https://www.form3.tech/)
 
 
-**Table of Contents**
-
-  * [Our Story](#our-story)                                * [Our Benefits](#our-benefits)
-  * [Why Work at Form3](#why-work-at-form3)                * [How we interview](#how-we-interview)
-  * [A remote-first culture](#a-remote-first-culture)      * [Our Engineering Team](#our-engineering-team)
-  * [The Team](#the-team)                                  * [How we work](#how-we-work)
-  * [The Opportunity](#the-opportunity)                    * [Interview Process](#interview-process)
-  * [What we look for](#what-we-look-for)                  * [Helpful Links](#helpful-links)
-
-
 
 # Hi. We're Form3
 
