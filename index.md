@@ -105,6 +105,24 @@ Andy Kuszyk - Senior Software Engineer
 
 ![export5](https://user-images.githubusercontent.com/54978377/128343069-03cbcd7c-a71c-465e-9465-9aba99ee8324.png)
 
+
+### How we interview
+
+**Phone Screen**
+
+An initial telephone call with a member of our Talent Team.Take Home Exercise
+
+**Technical Exercise**
+
+Candidates are asked to complete a technical exercise in Go. If you'd like to take a look at this exercise before applying, here is the link. Please do not attempt this exercise until you have spoken with a member of Form3's Talent Team.
+
+**Video Interview**
+
+Technical interview with 3 members of the Engineering Team via video-link. For further information on our interview process, please see the FAQs section. 
+
+Over the last three years, we’ve had hundreds of software engineers go through our recruitment process and based on those conversation we have compiled a list of frequently asked questions in a separate document that we think you may find useful if you are currently interviewing with us. Please see next page for our FAQs section.
+
+
 <br/>
 <br/>
 
@@ -135,6 +153,58 @@ The turnover within our team is really low, currently sitting at just 8%.
 **Pair Programming**  - We also find that this helps connect people together, especially in a remote-first environment, and make sure that everyone feels like part of the same team. 
 Pairing is a big part of the culture within our engineering team. It has been a key tool in helping our engineers deliver the quality of code required at Form3, whilst also allowing them to learn from and get to know each other, which can be a challenge in a remote-first environment. We use pair programming pragmatically, on projects that are complex enough to justify the time of two engineers. Every engineer that we hire is communicative, collaborative and generally well-suited to pairing so we’d hope that the team we have here are all people you’ll enjoy working closely with.
 
+
+**DevOps Culture**
+
+For us, the “you build it, you run it, you support it” approach is the best way to deliver quality software therefore every engineer at Form3 takes end-to-end ownership of the work they are involved with. This includes testing, deployment and infrastructure operations. As a result of this, there is an on-call aspect to life as an engineer at FORM3 to provide out of hours support to our customers.
+
+**Agile working** 
+
+All of our teams are Agile; however, we don’t strictly follow either Scrum or Kanban methodologies. Instead, we give our teams the autonomy to apply Agile practices as they see fit, meaning they can manage their workflows in a way that suits the project their working on.
+
+**Team building**
+
+We organise company meetups a few times a year. They provide an essential chance for meaningful in-house/remote bonding that strengthens collaboration for the long-term. It’s not all business though! We make sure employees who normally work remotely get the opportunity to attend too.
+
+We also arrange hackathons to boost innovation and enhance company culture in a remote environment. Hackathons enable everyone to work as an equal, gives development teams the ability to meet face to face when work is normally done remotely and the opportunity to work in different ways to business as usual. We therefore plan to hold several hackathons throughout the year.
+
+You can read about our most recent hackathon in this blog post written by one of our senior engineers Stuart Murray https://www.form3.tech/careers.
+
+## Interview Process
+
+**I’ve not worked with Go before, should I still apply?** 
+Definitely! Approximately a third of the engineers we have hired in the last 12 months had not worked with Go prior to joining Form3. That being said, we do ask candidates to attempt a technical exercise in Go, however experience with the language is considered when we are reviewing it.
+
+**What does the interview process look like?**
+Once you have applied a member of our Talent Team will be in touch to arrange a 30-45 minutes telephone call to introduce Form3 and talk through your experience in a bit more detail.
+
+You will then be sent information about a take home exercise that we ask all candidates to attempt in Go. We really want to see an example of your best work and a lot of the candidates that we speak with have not worked with Go before, therefore we decided not to set a time limit or deadline. Take as long as you need to put together a project that you are proud of.
+
+If feedback on your take home exercise is positive, we move straight to final stage technical interview via video-link. This is a 90-minute interview where you will meet with 3 members of our engineering team on a one-to-one basis for 30 minutes each.
+
+**How long does the interview process take?** 
+It really depends on how quickly you are able to complete the take home exercise, but on average our interview process takes about 2 weeks from initial application to offer, although we can move faster on this, if required.
+
+**Do I receive feedback on my technical exercise if unsuccessful?** 
+Yes. Each technical exercise is reviewed by two engineers and they will provide written feedback that highlights the positive aspects of your solution, whilst explaining areas that could have been improved.
+
+### Helpful Links
+
+Useful videos
+https://form3.tech/press  https://vimeo.com/form3 
+
+
+Blog
+https://form3.tech/blog
+
+
+Podcast
+https://tech-by-form3.simplecast.com/
+
+
+Stack Overflow & GitHub profiles
+https://stackoverflow.com/jobs/companies/form3-financial-cloud
+https://github.com/form3tech-oss
 
 
 
