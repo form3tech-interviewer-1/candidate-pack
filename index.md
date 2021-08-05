@@ -105,8 +105,35 @@ Andy Kuszyk - Senior Software Engineer
 
 ![export5](https://user-images.githubusercontent.com/54978377/128343069-03cbcd7c-a71c-465e-9465-9aba99ee8324.png)
 
+<br/>
+<br/>
 
+# Q&A
 
+## Our Engineering Team
+
+#### How many engineers are there at Form3? 
+
+As of May 2021, we have 110 engineers based in 21 different countries across the EU. We continue to add several new engineers every month.
+
+#### How is the team structured? 
+
+We've many small teams of 4-8 people who own a product end-to-end. Each team consists of software engineers and business analysts, as well as an engineering lead and a product manager. As we grow we'll create more teams, but will always look to keep them small and focused.
+
+#### What are the career progression pathways for a software engineer at Form3? 
+
+Every engineer has the chance to work on a variety of technologies and products, across different areas of the business. As we grow we'll further expand our product offering, whilst also seeing the number of transactions and the amount of data we process increase significantly. If technical and people leadership is of interest to you, there will be opportunity for you to step up and take on these challenges as well.
+
+#### What is the turnover within the engineering team? 
+
+The turnover within our team is really low, currently sitting at just 8%. 
+
+### How we work
+
+**Remote working** - Form3 has been built as a remote-friendly company with a remote-first engineering team. We are well-practiced in remote-working and have all of the processes in place for our employees to work seamlessly, wherever they are based.  Slack, Zoom and Microsoft Teams are part of our day-to-day toolset. For impromptu coffee breaks we have “Donuts” and to check in with the hearts and minds of our people we use Officevibe.
+
+**Pair Programming**  - We also find that this helps connect people together, especially in a remote-first environment, and make sure that everyone feels like part of the same team. 
+Pairing is a big part of the culture within our engineering team. It has been a key tool in helping our engineers deliver the quality of code required at Form3, whilst also allowing them to learn from and get to know each other, which can be a challenge in a remote-first environment. We use pair programming pragmatically, on projects that are complex enough to justify the time of two engineers. Every engineer that we hire is communicative, collaborative and generally well-suited to pairing so we’d hope that the team we have here are all people you’ll enjoy working closely with.
 
 
 
