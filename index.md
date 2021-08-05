@@ -16,7 +16,7 @@ Launched in 2016 by payment geeks, we have gone from start-up to established sca
 
 Though dotted across the UK and Europe, our love for cloud-native technology is what unites us. Technical excellence is our passion and we delight in using technology to continually improve our customer’s experience. When you combine that with operational excellence, magic happens.
 
-### This is an H3
+### Driven by our Values
 
 These are the things we believe in; they guide our decisions and our actions
 
@@ -52,8 +52,8 @@ At Form3 you will have the opportunity to design, develop and deploy backend clo
 
 
 
-
-
+<br/>
+<br/>
 
 
 **Our Stack** - Here are a few of the tools and methodologies we utilise:
@@ -72,7 +72,7 @@ At Form3 you will have the opportunity to design, develop and deploy backend clo
 
 [Link to StackOverflow](https://stackoverflow.com/jobs/companies/form3-financial-cloud)
 
-
+<br/>
 
 ### What we look for
 
@@ -85,11 +85,20 @@ For us pair programming is a way of life and it goes hand-in-hand with a remote-
 There are no ‘strict’ rules for pair programming, and we empower our engineers to decide if they feel it’ll be beneficial on a particular problem. Depending on the project, our engineers spend between 50%-70% of their time pair programming.
 
 
+<br/>
+<br/>
+
 ![export3](https://user-images.githubusercontent.com/54978377/128342832-0b21edf2-18bf-448e-a69b-1393360dc1de.png)
 
 Our engineers thrive in solving complex payment problems, pairing up the brightest minds to deliver technical excellence to our customers.
 
 Andy Kuszyk - Senior Software Engineer
+
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 
 ## Our Benefits
